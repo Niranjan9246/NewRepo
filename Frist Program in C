@@ -1,0 +1,10 @@
+#include <stdio.h>
+#include <conio.h>
+main() {
+int a,b,c;
+a=20;
+b=30;
+c=a+b;
+printf("sum of c is %d", c);
+getch();
+}
